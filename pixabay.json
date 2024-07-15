@@ -1,0 +1,70 @@
+[
+    {
+        "fecha_y_hora": "2024-02-14T11:57:25.723665",
+        "me_gustan": 327,
+        "vistas": 1277,
+        "descargas": 968,
+        "nuestra_seleccion": 0,
+        "seguidores": 2,
+        "siguiendo": 0,
+        "fotos": 80
+    },
+    {
+        "fecha_y_hora": "2024-03-04T12:05:30.014057",
+        "me_gustan": 1150,
+        "vistas": 7548,
+        "descargas": 5310,
+        "nuestra_seleccion": 0,
+        "seguidores": 35,
+        "siguiendo": 15,
+        "fotos": 211
+    },
+    {
+        "fecha_y_hora": "2024-04-03T15:26:33.021706",
+        "me_gustan": 2734,
+        "vistas": 22466,
+        "descargas": 14856,
+        "nuestra_seleccion": 0,
+        "seguidores": 80,
+        "siguiendo": 30,
+        "fotos": 459
+    },
+    {
+        "fecha_y_hora": "2024-05-08T15:26:33.021706",
+        "me_gustan": 5220,
+        "vistas": 86549,
+        "descargas": 65171,
+        "nuestra_seleccion": 0,
+        "seguidores": 141,
+        "siguiendo": 30,
+        "fotos": 850
+    },
+    {
+        "fecha_y_hora": "2024-06-01T15:26:33.021706",
+        "me_gustan": 8423,
+        "vistas": 175000,
+        "descargas": 140000,
+        "nuestra_seleccion": 0,
+        "seguidores": 209,
+        "siguiendo": 40,
+        "fotos": 1327
+    },
+    {
+        "fecha_y_hora": "2024-07-07T15:26:33.021706",
+        "me_gustan": 12636,
+        "vistas": 287000,
+        "descargas": 215000,
+        "nuestra_seleccion": 0,
+        "seguidores": 297,
+        "siguiendo": 52,
+        "fotos": 1760
+    },
+    {
+        "fecha_y_hora": "2024-07-14T19:21:33.970449",
+        "me_gustan": 13387,
+        "vistas": 309000,
+        "descargas": 229000,
+        "nuestra_seleccion": 0,
+        "seguidores": 316,
+        "siguiendo": 52
+    }
